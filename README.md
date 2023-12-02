@@ -49,7 +49,7 @@ https://afdian.net/a/manong
   `KEY_ALIAS`:  你的安卓签名文件的key alias。
   `KEY_PASSWORD`: 你的安卓签名文件的key密码。
   `STORE_FILE`: 你的安卓签名文件的路径。
-  `STORE_PASSWORD`: 你的安卓签名文件的store密码。
+  `STORE_PASSWORD`: 你的安卓签名文件的store密码。 
 * 在Github Actions中触发编译
 * 下载`Artifacts`中的编译产物`aaps.zip` 
 
